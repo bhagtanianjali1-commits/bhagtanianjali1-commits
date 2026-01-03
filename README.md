@@ -57,7 +57,10 @@ Currently building **hands-on Python projects** and expanding my visualization s
 
 ## 📊 GitHub Stats  
 
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagtanianjali1-commits&show_icons=true&theme=default)
+## 📊 GitHub Overview  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagtanianjali1-commits&show_icons=true)
+
 
 ---
 
