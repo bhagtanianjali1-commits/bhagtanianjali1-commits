@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali Bhagtani  
 
-<!--
-**bhagtanianjali1-commits/bhagtanianjali1-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python  
 
-Here are some ideas to get you started:
+I’m a data enthusiast focused on transforming raw data into meaningful insights.  
+Currently building **hands-on Python projects** and expanding my visualization skills with **Tableau**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me  
+
+- 🔍 Interested in **Data Analysis & Business Intelligence**
+- 🧠 Strong foundation in **Excel, SQL, Power BI, and Python**
+- 🛠️ Actively working on **Python-based data analysis projects**
+- 📊 Learning **Tableau** (expected completion in a few days)
+- 📈 Passionate about data-driven decision making and continuous learning
+
+---
+
+## 🛠️ Skills & Tools  
+
+**Data Analysis & Visualization:**  
+- Excel (Advanced formulas, Pivot Tables, Dashboards)  
+- Power BI (DAX, Data Modeling, Interactive Reports)  
+- Tableau (In Progress)
+
+**Programming & Databases:**  
+- Python (Pandas, NumPy, Data Analysis)  
+- SQL (Joins, Subqueries, Aggregations)
+
+**Other Tools:**  
+- Git & GitHub  
+
+---
+
+## 📂 Featured Projects  
+
+🚧 *Projects are actively being added — stay tuned!*  
+
+- 📌 Python Data Analysis Projects  
+- 📌 Excel & Power BI Dashboards  
+- 📌 SQL Practice & Case Studies  
+
+(Repositories will be pinned here as projects are completed.)
+
+---
+
+## 📊 GitHub Stats  
+
+![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagtanianjali1-commits&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: www.linkedin.com/in/anjalibhagtani1104 
+- 📧 Email: bhagtanianjali1@gmail.com 
+
+---
+
+⭐ *Always learning, always improving.*
