@@ -1,37 +1,20 @@
 # Hi 👋, I'm Anjali Bhagtani  
-<p align="center">
-  
-  ## 📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python
-</p>
 
-I’m a data enthusiast focused on transforming raw data into meaningful insights.  
-Currently building **hands-on Python projects** and expanding my visualization skills with **Tableau**.
+<p align="center">
+Aspiring Data Analyst | Excel • SQL • Power BI • Python
+</p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-- 🔍 Interested in **Data Analysis & Business Intelligence**
-- 🧠 Strong foundation in **Excel, SQL, Power BI, and Python**
-- 🛠️ Actively working on **Python-based data analysis projects**
-- 📊 Learning **Tableau** (expected completion in a few days)
-- 📈 Passionate about data-driven decision making and continuous learning
+I’m a data enthusiast with a strong interest in **data analysis and business intelligence**.  
+I enjoy working with data to uncover insights and support better decision-making.
 
----
-
-## 🛠️ Skills & Tools 
-
-**Data Analysis & Visualization:**  
-- Excel (Advanced formulas, Pivot Tables, Dashboards)  
-- Power BI (DAX, Data Modeling, Interactive Reports)  
-- Tableau (In Progress)
-
-**Programming & Databases:**  
-- Python (Pandas, NumPy, Data Analysis)  
-- SQL (Joins, Subqueries, Aggregations)
-
-**Other Tools:**  
-- Git & GitHub  
+- 📊 Skilled in **Excel, SQL, Power BI, and Python**
+- 🛠️ Currently building **hands-on Python data analysis projects**
+- 🌱 Learning **Tableau** for advanced data visualization
+- 📈 Focused on improving analytical thinking through real-world practice
 
 ---
 
@@ -45,32 +28,38 @@ Currently building **hands-on Python projects** and expanding my visualization s
 
 ---
 
-## 📂 Featured Projects  
+## 🌱 Currently Working On  
 
-🚧 *Projects are actively being added — stay tuned!*  
-
-- 📌 Python Data Analysis Projects  
-- 📌 Excel & Power BI Dashboards  
-- 📌 SQL Practice & Case Studies  
-
-(Repositories will be pinned here as projects are completed.)
+- Python projects for data cleaning and analysis  
+- Strengthening SQL through practical queries  
+- Learning Tableau for interactive dashboards  
 
 ---
 
-## 📊 GitHub Stats  
+## 📂 Projects  
+
+🚧 *Projects are actively being developed and will be added here soon.*
+
+Planned focus areas:
+- Python Data Analysis Projects  
+- Excel & Power BI Dashboards  
+- SQL Case Studies  
+
+(Selected repositories will be pinned as they are completed.)
+
+---
 
 ## 📊 GitHub Overview  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagtanianjali1-commits&show_icons=true)
-
 
 ---
 
 ## 📫 Connect With Me  
 
 - 💼 LinkedIn: www.linkedin.com/in/anjalibhagtani1104 
-- 📧 Email: bhagtanianjali1@gmail.com 
+- 📧 Email: bhagtanianjali1@gmail.com
 
 ---
 
-⭐ *Always learning, always improving.*
+⭐ Always learning and improving through practice.
