@@ -1,6 +1,7 @@
 # Hi 👋, I'm Anjali Bhagtani  
-
-### 📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python  
+<p align="center">
+### 📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python
+</p>
 
 I’m a data enthusiast focused on transforming raw data into meaningful insights.  
 Currently building **hands-on Python projects** and expanding my visualization skills with **Tableau**.
