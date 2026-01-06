@@ -58,7 +58,7 @@ I enjoy working with data to uncover insights and support better decision-making
 
 🔹 ****E-Commerce Order Analysis (Power BI)****  
  Interactive dashboards for long-term content and engagement analysis  
-🔗 https://github.com/bhagtanianjali1-commits/ecommerce-order-analytics-powerbi  
+🔗 https://github.com/bhagtanianjali1-commits/ecommerce-sales-analytics-powerbi  
 
 🔹 ****US Healthcare Analytics (Excel)****  
  Excel-based analytics using pivot tables and dashboards  
