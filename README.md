@@ -63,7 +63,3 @@ I enjoy working with data to uncover insights and support better decision-making
 
 - 💼 LinkedIn: www.linkedin.com/in/anjalibhagtani1104 
 - 📧 Email: bhagtanianjali1@gmail.com
-
----
-
-⭐ Always learning and improving through practice.
