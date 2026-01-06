@@ -42,14 +42,6 @@ I enjoy working with data to uncover insights and support better decision-making
 
 ---
 
-## 🌱 Currently Working On  
-
-- Python projects for data cleaning and analysis  
-- Strengthening SQL through practical queries  
-- Learning Tableau for interactive dashboards  
-
----
-
 ## 📁 Projects
 
 🔹  ****Retail Analytics (SQL)****  
