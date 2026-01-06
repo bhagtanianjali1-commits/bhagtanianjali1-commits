@@ -63,9 +63,13 @@ Planned focus areas:
 
 ---
 
-## 📊 GitHub Overview  
+<h2>📊 GitHub Overview</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhagtanianjali1-commits&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=bhagtanianjali1-commits&show_icons=true&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagtanianjali1-commits&layout=compact&theme=tokyonight" />
 
 ---
 
