@@ -62,7 +62,7 @@ I enjoy working with data to uncover insights and support better decision-making
 
 🔹 ****US Healthcare Analytics (Excel)****  
  Excel-based analytics using pivot tables and dashboards  
-🔗 https://github.com/bhagtanianjali1-commits/us-healthcare-analytics-excel  
+🔗 https://github.com/bhagtanianjali1-commits/excel-project 
 
 
 ---
