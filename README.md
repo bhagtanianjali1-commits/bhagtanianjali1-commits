@@ -50,26 +50,20 @@ I enjoy working with data to uncover insights and support better decision-making
 
 ---
 
-## 📂 Projects  
+## 📁 Projects
 
-🚧 *Projects are actively being developed and will be added here soon.*
+🔹  ****Retail Analytics (SQL)****  
+ Advanced SQL-based analysis on retail transactions  
+🔗 https://github.com/bhagtanianjali1-commits/retail-analytics-sql  
 
-Planned focus areas:
-- Python Data Analysis Projects  
-- Excel & Power BI Dashboards  
-- SQL Case Studies  
+🔹 ****E-Commerce Order Analysis (Power BI)****  
+ Interactive dashboards for long-term content and engagement analysis  
+🔗 https://github.com/bhagtanianjali1-commits/ecommerce-order-analysis-powerbi  
 
-(Selected repositories will be pinned as they are completed.)
+🔹 ****US Healthcare Analytics (Excel)****  
+ Excel-based analytics using pivot tables and dashboards  
+🔗 https://github.com/bhagtanianjali1-commits/us-healthcare-analytics-excel  
 
----
-
-<h2>📊 GitHub Overview</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhagtanianjali1-commits&show_icons=true&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagtanianjali1-commits&layout=compact&theme=tokyonight" />
 
 ---
 
